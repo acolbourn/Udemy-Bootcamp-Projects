@@ -8,5 +8,7 @@ Projects:
 Portfolio Website - A mock personal website covering the HTML and CSS fundamentals.
 
 TinDog - A fake startup landing page for a dog dating app using Bootstrap.  The goal was responsive design across all screen sizes.
+https://ecstatic-yalow-6215cb.netlify.com
 
 Drum Kit - A simple Javascript drum kit.
+https://practical-brown-b01565.netlify.com
