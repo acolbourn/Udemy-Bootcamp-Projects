@@ -1,7 +1,7 @@
 # Udemy-Bootcamp-Projects
 Guided projects from: Udemy - The Complete 2019 Web Development Bootcamp (https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-This is a collection of projects I made while completing this bootcamp.  The projects are mostly guided tutorials (so not particularly impressive on their own), but I'm posting them here though to demonstrate skills I'm familiar with and to gain experience with github and website hosting.  A brief description of each project can be found below along with links to see the live websites in action.  The code can be found in the corresponding folders in this repository.  
+This is a collection of projects I made while completing this bootcamp.  The projects are mostly guided tutorials (so not particularly impressive on their own), but I'm posting them here to demonstrate skills I'm familiar with and to gain experience with github and website hosting.  A brief description of each project can be found below along with links to see the live websites in action.  The code can be found in the corresponding folders in this repository.  
 
 Projects:
 
