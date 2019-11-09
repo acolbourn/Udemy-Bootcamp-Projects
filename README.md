@@ -11,4 +11,8 @@ TinDog - A fake startup landing page for a dog dating app using Bootstrap.  The 
 https://ecstatic-yalow-6215cb.netlify.com
 
 Drum Kit - A simple Javascript drum kit.
+<<<<<<< HEAD
 https://practical-brown-b01565.netlify.com
+=======
+https://practical-brown-b01565.netlify.com/
+>>>>>>> fdeb03bd04fdeb6c21dda672d19222624f22e6f9
