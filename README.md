@@ -12,3 +12,6 @@ https://ecstatic-yalow-6215cb.netlify.com
 
 Drum Kit - A simple Javascript drum kit.
 https://practical-brown-b01565.netlify.com
+
+Simon - Javascript/jQuery implementation of the classic game Simon.
+https://elated-panini-b8cd96.netlify.com
